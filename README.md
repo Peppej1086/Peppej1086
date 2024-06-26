@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Peppej1086
 - 👀 I’m a Web Developer
 - 🌱 I’m have learned Frontend Web Development (HTML5, CSS3, Javascript, JQuery, Angular11, Vue.js and more...) by Epicode School in Italy and than by SGD School in Germany
-- 💞️ I leave and work in Munich
-- 📫 How to reach me... rinaldi.giuseppe.86@gmail.com
+- 💞️ I worked in Munich for the past 10 years, but in May 2024, I returned to Italy
+- 📫 How to reach me... giusepperinaldidev@gmail.com
 
 <!---
 Peppej1086/Peppej1086 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
